@@ -3,7 +3,10 @@ The invention focuses on detecting adulteration in stevia, a widely used natural
 The system captures hyperspectral images sized 512×512×204 pixels using an NIR hyperspectral camera with a spectral range of 400 nm–1000 nm. 
 
 Both spatial and spectral features are analyzed:
+
 Feature Extraction: Morphological Operations, 1D Wavelet Transform, Linear Discriminant Analysis (LDA), Factor Analysis, and 2D Wavelet Transform.
+
 Feature selection: Chi Square Test, Information Gain, Fisher Score, Relief Algorithm and Feature Selection via Maximum Relevance Minimum Redundancy (FSMRMR).
+
 Classification: Support Vector Machines, Multinomial Regression, Random Forest.
 
