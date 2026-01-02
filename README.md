@@ -104,13 +104,6 @@ The extracted and selected features were classified using:
 
 ---
 
-## Limitations
-
-- Requires access to calibrated hyperspectral imaging equipment
-- Current validation is limited to specific adulterants and concentration levels
-- Additional training is required to generalize to new adulterants
-
----
 
 ## Applications
 
